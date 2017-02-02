@@ -81,16 +81,20 @@ h6, .h6 {
 .blog-header {
   padding-top: 20px;
   padding-bottom: 20px;
+  margin-left: auto;
+  margin-right:auto;
 }
 .blog-title {
   margin-top: 30px;
   margin-bottom: 0;
   font-size: 60px;
   font-weight: normal;
+  text-align: center;
 }
 .blog-description {
   font-size: 20px;
   color: #999;
+  text-align: center;
 }
 
 
